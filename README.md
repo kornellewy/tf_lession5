@@ -1,4 +1,4 @@
-# The basics of machine learning in Python/tensorflow/CIFAR - 10
+# The basics of machine learning in Python/tensorflow/CIFAR-10
 
 ## Authors
 
